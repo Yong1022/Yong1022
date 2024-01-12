@@ -3,9 +3,8 @@
 
 <!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yhs72358"> -->
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Yong1022" height="165"/>
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yong1022)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yong1022)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### LANGUAGE
