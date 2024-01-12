@@ -2,7 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Yong1022&fontSize=90" />
 
 <!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yhs72358"> -->
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Yong1022" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Yong1022" height="165"/>
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yong1022)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 ### LANGUAGE
 
@@ -20,4 +24,3 @@
 
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yong1022)](https://github.com/anuraghazra/github-readme-stats)
