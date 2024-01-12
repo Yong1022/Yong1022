@@ -1,12 +1,8 @@
-# Main
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Yong1022&fontSize=90" />
-# Tech
+
 <!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yhs72358"> -->
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Yong1022" height="165">
-
-<!-- ## MAIN
-
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/> -->
 
 ### LANGUAGE
 
